@@ -1,82 +1,77 @@
 # ⚽ FIFA World Cup 2026 Final Analysis using Python
 
-> Turning a real-world football event into a Python data analysis project.
-
-![Cover](images/cover.png)
+A Python project that transforms a real-world football match into a data analysis exercise using **Pandas**, **Matplotlib**, and **Object-Oriented Programming (OOP)**.
 
 ---
 
-## 📖 Project Overview
+## 📌 Overview
 
-This project analyzes the **FIFA World Cup 2026 Final (Spain vs Argentina)** using Python.
+Instead of only watching the FIFA World Cup 2026 Final, I used it as an opportunity to practice Python and data analysis.
 
-Instead of simply watching the match, I used it as an opportunity to practice **data analysis**, **Object-Oriented Programming (OOP)**, and **data visualization**.
+This project demonstrates how match statistics can be organized, analyzed, and visualized using Python.
 
-The project demonstrates how real-world events can be transformed into structured datasets and meaningful visual insights.
-
----
-
-## 🚀 Technologies Used
-
-- 🐍 Python
-- 🐼 Pandas
-- 📊 Matplotlib
-- 🧩 Object-Oriented Programming (OOP)
+> **Educational Project:** Sample statistics are used for learning purposes.
 
 ---
 
-## 📊 Features
+## 🛠️ Tech Stack
 
-- Match statistics analysis
-- Total shots comparison
-- Expected Goals (xG) comparison
-- Match timeline
-- Winner prediction (based on xG)
-- Professional data visualization
+- Python
+- Pandas
+- Matplotlib
+- Object-Oriented Programming (OOP)
 
 ---
 
-## 📷 Project Preview
+## ✨ Features
 
-### Match Comparison
-
-![Chart](images/match_comparison.png)
+- 📊 Match Statistics Analysis
+- 📈 Total Shots Comparison
+- ⚽ Expected Goals (xG) Comparison
+- 🏆 Winner Prediction
+- 📅 Match Timeline
+- 📉 Data Visualization
 
 ---
 
-### Python Code
+# 📸 Project Preview
+
+### 📊 Visualization
+
+![Chart](images/charts.png)
+
+---
+
+### 💻 Python Code
 
 ![Code](images/code.png)
 
 ---
 
-### Program Output
+### ▶ Program Output
 
-![Output](images/terminal_output.png)
+![Output](images/terminal.png)
 
 ---
 
 ## 📂 Project Structure
 
 ```
-fifa-world-cup-2026-python-analysis
-
-│── analysis.py
-│── README.md
-│── requirements.txt
-│── LICENSE
-│── .gitignore
+fifa-world-cup-2026-python-analysis/
 │
-└── images
-    ├── cover.png
-    ├── match_comparison.png
+├── analysis.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── images/
+    ├── charts.png
     ├── code.png
-    └── terminal_output.png
+    └── terminal.png
 ```
 
 ---
 
-## ⚙️ Installation
+## 🚀 Installation
 
 Clone the repository
 
@@ -84,7 +79,7 @@ Clone the repository
 git clone https://github.com/singhdivanshu455-star/fifa-world-cup-2026-python-analysis.git
 ```
 
-Install the required libraries
+Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -98,39 +93,25 @@ python analysis.py
 
 ---
 
-## 📈 Sample Output
+## 📚 Learning Outcomes
 
-```
-=======================================================
-Spain vs Argentina
-=======================================================
+This project helped me improve my understanding of:
 
-Shots      xG
-
-Spain        20      1.94
-Argentina     2      0.20
-
-Winner Prediction:
-Spain
-```
+- Clean Python Programming
+- Pandas DataFrames
+- Matplotlib Visualizations
+- Object-Oriented Programming
+- Data Analysis Workflow
 
 ---
 
-## 🎯 Learning Outcomes
+## 🔮 Future Improvements
 
-Through this project I practiced:
-
-- Writing clean Python code
-- Organizing code using OOP
-- Working with Pandas DataFrames
-- Creating visualizations with Matplotlib
-- Presenting insights using data
-
----
-
-## ⚠️ Note
-
-This project uses **sample match statistics for educational purposes** to demonstrate Python programming and data analysis concepts.
+- Read data from CSV files
+- Add Possession Analysis
+- Pass Accuracy Comparison
+- Interactive Dashboard
+- More Visualizations
 
 ---
 
@@ -138,9 +119,4 @@ This project uses **sample match statistics for educational purposes** to demons
 
 **Divanshu Singh**
 
-- GitHub: https://github.com/singhdivanshu455-star
-- LinkedIn: *(Add your LinkedIn profile here)*
-
----
-
-⭐ If you found this project interesting, consider giving it a **Star**.
+⭐ If you like this project, consider giving it a Star.
