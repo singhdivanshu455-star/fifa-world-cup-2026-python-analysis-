@@ -1,72 +1,75 @@
 # ⚽ FIFA World Cup 2026 Final Analysis using Python
 
-A Python project that transforms a real-world football match into a data analysis exercise using **Pandas**, **Matplotlib**, and **Object-Oriented Programming (OOP)**.
+![Cover](fifa%20world%20cup%20cover%20image.png)
+
+> **Turning a Real-World Football Match into a Python Data Analysis Project**
 
 ---
 
-## 📌 Overview
+## 📖 Overview
 
-Instead of only watching the FIFA World Cup 2026 Final, I used it as an opportunity to practice Python and data analysis.
+Instead of simply watching the **FIFA World Cup 2026 Final**, I transformed it into a small Python data analysis project to practice programming and analytical thinking.
 
-This project demonstrates how match statistics can be organized, analyzed, and visualized using Python.
+This project demonstrates how real-world sports events can be explored using **Python**, **Pandas**, **Matplotlib**, and **Object-Oriented Programming (OOP)**.
 
-> **Educational Project:** Sample statistics are used for learning purposes.
+> **Note:** This project uses sample statistics for educational and Python practice purposes.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- Matplotlib
-- Object-Oriented Programming (OOP)
+- 🐍 Python
+- 🐼 Pandas
+- 📊 Matplotlib
+- 🧩 Object-Oriented Programming (OOP)
 
 ---
 
 ## ✨ Features
 
-- 📊 Match Statistics Analysis
-- 📈 Total Shots Comparison
-- ⚽ Expected Goals (xG) Comparison
-- 🏆 Winner Prediction
+- 📊 Match Statistics Summary
+- ⚽ Expected Goals (xG) Analysis
+- 🎯 Total Shots Comparison
+- 🏆 Winner Prediction (Based on xG)
 - 📅 Match Timeline
-- 📉 Data Visualization
+- 📈 Data Visualization
+- 🧹 Clean OOP Code Structure
 
 ---
 
 # 📸 Project Preview
 
-### 📊 Visualization
+## 📊 Match Statistics Visualization
 
-![Chart](images/charts.png)
-
----
-
-### 💻 Python Code
-
-![Code](images/code.png)
+![Chart](charts.png)
 
 ---
 
-### ▶ Program Output
+## 💻 Python Source Code
 
-![Output](images/terminal.png)
+![Code](code.png)
+
+---
+
+## ▶️ Program Output
+
+![Terminal](terminal.png)
 
 ---
 
 ## 📂 Project Structure
 
-```
-fifa-world-cup-2026-python-analysis/
+```text
+fifa-world-cup-2026-python-analysis
 │
 ├── analysis.py
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
-└── images/
-    ├── charts.png
-    ├── code.png
-    └── terminal.png
+├── fifa world cup cover image.png
+├── charts.png
+├── code.png
+└── terminal.png
 ```
 
 ---
@@ -95,13 +98,13 @@ python analysis.py
 
 ## 📚 Learning Outcomes
 
-This project helped me improve my understanding of:
+Through this project, I practiced:
 
-- Clean Python Programming
-- Pandas DataFrames
-- Matplotlib Visualizations
-- Object-Oriented Programming
-- Data Analysis Workflow
+- Writing clean Python code
+- Object-Oriented Programming (OOP)
+- Data manipulation using Pandas
+- Data visualization with Matplotlib
+- Converting real-world events into data analysis projects
 
 ---
 
@@ -111,7 +114,7 @@ This project helped me improve my understanding of:
 - Add Possession Analysis
 - Pass Accuracy Comparison
 - Interactive Dashboard
-- More Visualizations
+- Additional Match Statistics
 
 ---
 
@@ -119,4 +122,6 @@ This project helped me improve my understanding of:
 
 **Divanshu Singh**
 
-⭐ If you like this project, consider giving it a Star.
+- GitHub: https://github.com/singhdivanshu455-star
+
+⭐ If you found this project interesting, consider giving it a **Star**.
